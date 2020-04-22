@@ -33,7 +33,11 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Devise for awesome authorization
 gem 'devise', '~> 4.7', '>= 4.7.1'
+
+# Bulma for cuteness (don't let Vegeta hear you)
+gem 'bulma-rails', '~> 0.8.0'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
