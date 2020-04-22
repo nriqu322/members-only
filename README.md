@@ -16,6 +16,8 @@ Check the requirements in [The Odin Project](https://www.theodinproject.com/cour
 - Rails
 - VS Code
 - Gem
+- Bulma
+- Stickler
 
 ---
 
