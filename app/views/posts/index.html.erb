@@ -18,7 +18,7 @@
         <td><%= post.title %></td>
         <td><%= post.body %></td>
         <% if user_signed_in? %>
-          <td><%= current_user.name %></td>
+          <td><%= post.user.name %></td>
         <% else %>
           <td>You need permission to gossip</td>
         <% end %>
